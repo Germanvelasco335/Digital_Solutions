@@ -1,4 +1,4 @@
-# Mi Proyecto
+# Digital Solutions
 
 Descripción del proyecto.
 
