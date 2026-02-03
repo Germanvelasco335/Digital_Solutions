@@ -7,6 +7,6 @@ button.addEventListener("click", () => {
 
 form.addEventListener("submit", (e) => {
     e.preventDefault();
-    alert("Formulario enviado correctamente");
+    alert("Formulario enviado correctamente!");
     form.reset();
 });
