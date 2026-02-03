@@ -1,3 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary: #2563eb;
+    --dark: #1f2933;
+    --light: #f9fafb;
+}
+
 body {
-    
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    color: var(--dark);
+}
+
+header {
+    background: white;
+    margin: auto;
 }
